@@ -1,6 +1,6 @@
 # CS193p
 
-Online Stanford course to learn SwiftUI
+CS193p is an online Stanford course on SwiftUI. Below is my progress in the course:
 
 ## Lectures
 
@@ -19,7 +19,7 @@ Online Stanford course to learn SwiftUI
 - [ ] Lecture 13: Persistence
 - [ ] Lecture 14: UIKit Integration
 
-### Assignments
+## Assignments
 
 - [ ] Assignment 1
 - [ ] Assignment 2
