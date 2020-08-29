@@ -4,7 +4,7 @@ CS193p is an online Stanford course on SwiftUI. Below is my progress in the cour
 
 ## Lectures
 
-- [ ] Lecture 1: Intro to Swift UI
+- [x] Lecture 1: Intro to Swift UI
 - [ ] Lecture 2: MVVM & Swift Type System
 - [ ] Lecture 3: Reactive UI, Protocols & Layout
 - [ ] Lecture 4: Grid, Enums & Optionals
