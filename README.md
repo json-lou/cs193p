@@ -21,10 +21,10 @@ CS193p is an online Stanford course on SwiftUI. Below is my progress in the cour
 
 ## Assignments
 
-- [ ] Assignment 1
-- [ ] Assignment 2
-- [ ] Assignment 3
-- [ ] Assignment 4
-- [ ] Assignment 5
-- [ ] Assignment 6
+- [x] Assignment 1: Memorize
+- [ ] Assignment 2: More Memorize
+- [ ] Assignment 3: Set
+- [ ] Assignment 4: EmojiArt
+- [ ] Assignment 5: JSON Memorize Theme
+- [ ] Assignment 6: Memorize Themes
 

@@ -22,7 +22,7 @@ struct ContentView: View {
     }
     .foregroundColor(Color.orange)
     .padding()
-    .font(Font.largeTitle)
+    .font(emojiMemoryGame.cards.count >= 10 ? Font.title : Font.largeTitle)
   }
 }
 
@@ -39,6 +39,7 @@ struct CardView: View {
         RoundedRectangle(cornerRadius: 10.0).fill()
       }
     }
+    .aspectRatio(2/3, contentMode: .fit)
   }
 }
 
